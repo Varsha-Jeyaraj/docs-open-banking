@@ -106,7 +106,7 @@ Location: https://www.google.com/redirects/redirect1#id_token=eyJraWQiOiJxR1NxMj
 
 ### OpenAPI-Based Extensions
 
-WSO2 Open Banking IAM Accelerator 4.0.0 onwards supports OpenAPI-based extensions for consent management customizations. For more information, see [Open API Based Extensions for Consent Authorize Endpoints](../develop/java/consent-management-authorize.md).
+WSO2 Open Banking IAM Accelerator 4.0.0 onwards supports OpenAPI-based extensions for consent management customizations. For more information, see [Open API Based Extensions for Consent Authorize Endpoints](../develop/openapi/openapi-consent-management-authorize.md).
 
 ### Consent Grant Screen Customization
 
