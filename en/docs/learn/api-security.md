@@ -167,7 +167,7 @@ see [Token Authentication](token-authentication.md#certificate-bound-access-toke
 
 Consent validation ensures that the API consumer application's resource requests adhere to the consent provided 
 by the bank customers. This is a custom implementation as the behaviour of consent is defined by an open banking 
-specification. You can use the [Consent Validate](../develop/java/consent-management-validate.md) endpoint and define the 
+specification. You can use the [Consent Validate](../develop/openapi/openapi-consent-management-validate.md) endpoint and define the 
 consent validations by comparing the resource requests against the user-provided consent.
 
 

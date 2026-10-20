@@ -11,7 +11,7 @@ You can use any of the following base products:
 The accelerator mainly addresses the open banking requirements such as API consumer application onboarding, consent 
 management, and access authorization among numerous other features to set up an open banking solution. You can easily 
 implement a toolkit to customize the accelerator and help you comply with any regional open banking requirements. For 
-more information on customization, see the [Develop](../develop/java/open-banking-gateway.md) section.
+more information on customization, see the [Develop](../develop/develop-toolkit.md) section.
 
 !!! note
     In a standalone setup, these products are deployed in a single server. However, in a typical production environment, 
@@ -249,13 +249,6 @@ WSO2 Open Banking Accelerator 4.0.0 is supported on the following platforms:
       </tr>
    </tbody>
 </table>
-
-## Security Guidelines for Production Deployment
-
-When deploying WSO2 Open Banking in a production server, make sure to comply with the following common security guidelines for production deployment. 
-
- - For WSO2 Open Banking Accelerator refer [WSO2 Identity Server Security Guidelines for Production Deployment](https://is.docs.wso2.com/en/latest/deploy/security/security-guidelines-for-production-deployment/)
- <!-- For WSO2 Open Banking API Manager Accelerator refer [WSO2 API Manager Security Guidelines for Production Deployment](https://apim.docs.wso2.com/en/latest/install-and-setup/setup/deployment-best-practices/security-guidelines-for-production-deployment/#api-m-runtime-security)-->
 
 If you have difficulty in setting up any WSO2 product in a specific platform or database,
 [contact us](https://wso2.com/subscription/).
