@@ -61,7 +61,7 @@ Given below is a successful response:
 This same `request_uri` value is used in the subsequent authorization request as well.
 
 <!-- WSO2 Open Banking Accelerator allows you to perform custom validations for the pushed authorization request. 
-For more information, see [writing a Custom Pushed Auth Request Validator](../develop/custom-pushed-auth-request-validator.md). -->
+For more information, see [writing a Custom Pushed Auth Request Validator](../develop/java/custom-pushed-auth-request-validator.md). -->
 
 <!-- ??? tip "Click here to see configurations related to the Pushed Authorization web application..."
     1. Open the `<IS_HOME>/repository/conf/deployment.toml` file. 
@@ -105,4 +105,4 @@ WSO2 Open Banking Accelerator supports validation of the request object sent dur
 - `aud` claim validation – Verifies that the aud (audience) claim exists in the request object.
 - `scope` claim validation – Confirms that the scope claim exists and includes openid as one of the scopes.
 
-If additional validations are required, toolkit developers can implement them using the [Validate Authorize Request](../develop/openapi-authorization-flow.md) OpenAPI Extension.
+If additional validations are required, toolkit developers can implement them using the [Validate Authorize Request](../develop/openapi/openapi-authorization-flow.md) OpenAPI Extension.
